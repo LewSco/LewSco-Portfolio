@@ -6,3 +6,5 @@ I had to:
  - Decypher text by checking which characters were letters and then applying for the shift number before inserting the string into a new variable.
 
 I learned about arrays and Unicode making this a very useful exercise.
+
+Code Created: 17/01/2022
