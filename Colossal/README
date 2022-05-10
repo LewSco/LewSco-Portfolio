@@ -1,0 +1,19 @@
+These are two classes I programmed in C# for a game called Colossal. The game was for a college group project.
+
+The first class, Playing.cs, was for the game state playing. It was important for:
+ - Taking in event data from a spreadsheet. 
+ - Calling instances of all the in game UI. 
+ - Storing all the info on how the player was doing. 
+ - Calling events based on a randomly generated number.
+ - Ensuring that the same event isn't called twice
+ - Checking if the player should recieve a game over.
+
+The second class, Event.cs, was used to controll every instance of an event. It was important for:
+ - Taking in all the event info and displaying it to the user.
+ - Changing the info displayed to the user based on the event state.
+ - Sending changes to player resources back to playing class based on event outcome.
+ - Selecting the Where to draw the character portait from on the spritesheet based on character name and emotion number.
+
+This project helped me learn about finite state machines/ using enums, how to give functions mutiple return values, using timers and creating multi-dimentioned arrays. I'm glad to have worked on it with my team.
+
+Code Created: 27/10/2021 - 12/01/2022
