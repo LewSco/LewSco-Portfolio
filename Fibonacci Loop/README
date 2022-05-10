@@ -1,9 +1,9 @@
 The task was to create a programme in C# that could output however many numbers in the Fibonacci sequence that the user has specified.
 
 I had to: 
-Research what the Fibonacci loop was.
-Make use of loops for both input validation and finding the correct amount of numbers in the sequence.
-find a way to calculate and display the numbers in sequence as the programme loops.
+ - Research what the Fibonacci loop was.
+ - Make use of loops for both input validation and finding the correct amount of numbers in the sequence.
+ - find a way to calculate and display the numbers in sequence as the programme loops.
 
 In the end it helped me learn a lot about using loops.
 
