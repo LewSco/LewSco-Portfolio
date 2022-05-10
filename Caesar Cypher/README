@@ -1,0 +1,8 @@
+The task was to create a programme in C# that could encode and decode Caeser cyphers using text files for encoded and decoded messages.
+
+I had to: 
+ - Make the programme read and write from files.
+ - Validate the user input, then convert it into a usable shift number using loops.
+ - Decypher text by checking which characters were letters and then applying for the shift number before inserting the string into a new variable.
+
+I learned about arrays and Unicode making this a very useful exercise.
