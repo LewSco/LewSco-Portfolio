@@ -8,8 +8,7 @@
 
 - 📫 Contact info below 
 - 📧 Email: lewscott57@yahoo.co.uk
-- 📱 Phone: +44 7495 400 501
-- ⌨️ Discord: TickledSteiner#4097
+- 📱 Discord: TickledSteiner#4097
 
 <!---
 LewSco/LewSco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
